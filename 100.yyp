@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "503dda35-349d-4290-bfc4-3667afaee0f8",
+            "Value": {
+                "id": "de3b0c50-4a87-4f35-81f5-a71eb12e9a8b",
+                "resourcePath": "sprites\\spr_codex\\spr_codex.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75d8e650-1c4f-4ef4-86e0-cd1ae92eee24",
             "Value": {
                 "id": "29928de5-459e-4f4f-b6a5-89b54fc75180",
